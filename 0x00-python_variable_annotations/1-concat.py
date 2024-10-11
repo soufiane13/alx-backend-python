@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 a script a type-annotated function concat
 that takes a string str1 and a string str2
